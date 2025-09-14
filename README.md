@@ -61,8 +61,9 @@ Make sure to install these libraries in Arduino IDE:
 ---
 
 ## 📷 Demo (Optional)
-*(Add photos or GIFs of your working setup here)*
+<img width="1117" height="721" alt="image" src="https://github.com/user-attachments/assets/b5fdb61e-2dfa-4b28-a37b-18d1be1c9093" />
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 Author
+Made with ❤️ by prince gabani  
