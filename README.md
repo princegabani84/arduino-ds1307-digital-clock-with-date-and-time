@@ -60,7 +60,7 @@ Make sure to install these libraries in Arduino IDE:
 
 ---
 
-## 📷 Demo (Optional)
+## 📷 Demo 
 <img width="1117" height="721" alt="image" src="https://github.com/user-attachments/assets/b5fdb61e-2dfa-4b28-a37b-18d1be1c9093" />
 
 ---
